@@ -49,7 +49,8 @@
 
 ### 📫 Контакты и соцсети
 
-- **Telegram**: [@romankomlev_pa](https://t.me/romankomlev_pa)
+- **Telegram** <img width="192" height="192" alt="Telegram" src="https://github.com/user-attachments/assets/571d193e-fe58-4d65-953c-bb6ac561bb85" />
+: [@romankomlev_pa](https://t.me/romankomlev_pa)
 - **Email**: romankomlev2024@gmail.com
 - **Phone**: +7 (938) 126-47-33
 
