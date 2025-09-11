@@ -49,10 +49,9 @@
 
 ### 📫 Контакты и соцсети
 
-- **Telegram** <img width="192" height="192" alt="Telegram" src="https://github.com/user-attachments/assets/571d193e-fe58-4d65-953c-bb6ac561bb85" />
-: [@romankomlev_pa](https://t.me/romankomlev_pa)
-- **Email**: romankomlev2024@gmail.com
-- **Phone**: +7 (938) 126-47-33
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="36" height="36">](https://t.me/romankomlev_pa)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="36" height="36">](mailto:romankomlev2024@gmail.com)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="36" height="36">](https://wa.me/79381264733)
 
 ---
 
