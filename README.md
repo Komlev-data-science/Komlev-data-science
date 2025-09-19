@@ -25,8 +25,8 @@
 - 📋 **Языки запросов**: SQL (продвинутый уровень)
 
 **Программирование:**
-- 🐍 **Python**: Pandas, NumPy, SciPy, Matplotlib, Statsmodels
-- 📊 **Визуализация**: Plotly, Seaborn
+- 🐍 **Python**: Pandas, NumPy, SciPy,Statsmodels
+- 📊 **Визуализация**: Matplotlib,Plotly, Seaborn
 - 🔄 **Автоматизация**: Airflow, Git
 
 **Продуктовая аналитика:**
